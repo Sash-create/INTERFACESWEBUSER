@@ -1,0 +1,3 @@
+--> Pegar carpeta INU-PROJECT en xampp/htdocs
+--> importar BD
+--> la ruta sería localhost/INU-PROJECT y lo primero sería login_registro.php de ahí se puede probar el registro y login normalmente.
